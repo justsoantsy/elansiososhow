@@ -33,7 +33,7 @@ phone = ""
 theme_color = "#8F00B3"
 [params.contact]
 enable = true
-form_action = "info@justsoantsy.com"
+form_action = "send:info@justsoantsy.com"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
