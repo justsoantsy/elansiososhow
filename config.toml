@@ -5,6 +5,10 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "justsoantsy.eth | Drag, NFT music, and art. "
 [[menu.main]]
+URL = "https://justsoantsy.com/shop"
+name = "shop"
+weight = ""
+[[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
