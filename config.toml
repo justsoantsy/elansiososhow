@@ -3,19 +3,23 @@ languageCode = "en-us"
 relativeURLs = "true"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
-[[menu.main]]
-name = "Shop"
-url = "https://justsoantsy.com/shop"
-weight = 3
-[[menu.main]]
-name = "Blog"
-url = "https://justsoantsy.com/blog"
-weight = 2
+title = "justsoantsy.eth | Drag, NFT music, and art. "
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = ""
 author = "Leo M. Davis"
@@ -29,7 +33,7 @@ phone = ""
 theme_color = "#8F00B3"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "info@justsoantsy.com"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
