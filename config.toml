@@ -17,15 +17,15 @@ URL = "https://justsoantsy.com/blog"
 name = "blog"
 weight = ""
 [params]
-address = ""
+address = "1072 400 Broadway, Troy NY 12181"
 author = "Leo M. Davis"
 copyright = "Copyrighht &copy; 2022 |  [justsoantsy.com](https://justsoantsy.com)"
 description = "This is meta description"
-email = ""
+email = "info@justsoantsy.com"
 google_analitycs_id = "Your ID"
 home = "justsoantsy.eth"
 logo = "/images/justsoantsy-2021-logo-white.png"
-phone = ""
+phone = "555-55-55-5rriente 🤙"
 theme_color = "#8F00B3"
 [params.contact]
 enable = false
