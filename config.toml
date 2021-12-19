@@ -23,11 +23,11 @@ weight = 5
 [params]
 address = ""
 author = "Leo M. Davis"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyrighht &copy; 2022 | justsoantsy.com"
 description = "This is meta description"
 email = "info@justsoantsy.com"
 google_analitycs_id = "Your ID"
-home = "Home"
+home = "justsoantsy.eth"
 logo = "/images/justsoantsy-2021-logo-white.png"
 phone = ""
 theme_color = "#8F00B3"
