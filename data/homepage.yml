@@ -32,10 +32,10 @@ experience:
   enable: true
   title: my NFT projects
   item:
-  - logo: ''
+  - logo: "/images/badbunny.png"
     title: Bad Bunny NFT Collection
     company: 'Potencialmente sera minada en OpenSea, AtomicHub, y en otras blockchains. '
-    duration: Coming Soon
+    duration: ''
   - logo: ''
     title: saltï NFT Drag Queen Reggaetonera
     company: El primer NFT music álbum de la Latine Drag Queen Reggaetonera en dominar
