@@ -30,11 +30,11 @@ skill:
     color: "#ffbcaa"
 experience:
   enable: true
-  title: the projects
+  title: my NFT projects
   item:
   - logo: ''
     title: Bad Bunny NFT Collection
-    company: Potencialmente minada en OpenSea and AtomicHub
+    company: 'Potencialmente sera minada en OpenSea, AtomicHub, y en otras blockchains. '
     duration: Coming Soon
   - logo: ''
     title: UX & UI Designer
