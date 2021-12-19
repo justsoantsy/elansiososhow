@@ -3,11 +3,13 @@ banner:
   title: Únete a mi aventura de ser un artista drag y comediante en el metaverso.
 about:
   enable: true
-  content: "*Lorem ipsum dolor sit amet*,consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur."
+  content: "¡Hola! Soy Leo, también conocido como saltï, y soy un artista y animador
+    venezolano-estadounidense de NFT. Mi objetivo es que saltï sea la primera artista
+    drag en dominar el metaverso. saltï es la NFT Latine Queen Reggaetonera y la realeza
+    del reguetón como Ivy Queen y Karol G pero en el metaverso. saltï lanzará un album
+    de reguetón NFT para ponerte a perrear toda la noche. También quiero retribuir
+    a la comunidad de NFT y a las organizaciones que ayudan a apoyar a los jóvenes
+    LGBTQ +."
   button:
     enable: true
     label: know more
@@ -42,7 +44,7 @@ experience:
       en metaverso.
     duration: Coming Soon
 education:
-  enable: true
+  enable: false
   title: the projects
   item:
   - title: Marters in UX Design
