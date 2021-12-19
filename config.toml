@@ -5,21 +5,21 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "justsoantsy.eth | Drag, NFT music, and art. "
 [[menu.main]]
-name = "Shop"
-url = "https://justsoantsy.com/shop"
-weight = 3
-[[menu.main]]
-name = "Blog"
-url = "https://justsoantsy.com/blog"
-weight = 2
+URL = "https://justsoantsy.com/shop"
+name = "shop"
+weight = ""
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 2
+[[menu.main]]
+URL = "https://justsoantsy.com/blog"
+name = "blog"
+weight = ""
 [params]
 address = ""
 author = "Leo M. Davis"
-copyright = "Copyrighht &copy; 2022 | justsoantsy.com"
+copyright = "Copyrighht &copy; 2022 |  [justsoantsy.com](https://justsoantsy.com)"
 description = "This is meta description"
 email = ""
 google_analitycs_id = "Your ID"
