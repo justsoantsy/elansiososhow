@@ -12,7 +12,7 @@ Soy un estratega de contenido creativo venezolano-estadounidense, narrador visua
 
 Durante más de nueve años, he estado elaborando y perfeccionando el arte de contar historias en línea con éxito y brindar resultados para múltiples marcas reconocidas.
 
-Actualmente, estoy usando toda mi experiencia y habilidades profesionales para aprovechar mi interés en el arte digital, el drag y el entretenimiento y crear contenido que influya, eduque, entretenga e informe a otros: una oportunidad de exposición para las marcas que se alinean con mi misión, visión y valores..
+Actualmente, estoy usando toda mi experiencia y habilidades profesionales para aprovechar mi interés en el arte digital, el drag y el entretenimiento y crear contenido que influya, eduque, entretenga e informe a otros: una oportunidad de exposición para las marcas que se alinean con mi misión, visión y valores.
 
 ### 
 
