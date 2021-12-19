@@ -5,13 +5,17 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
+name = "Shop"
+url = "https://justsoantsy.com/shop"
+weight = 3
+[[menu.main]]
+name = "Blog"
+url = "https://justsoantsy.com/blog"
+weight = 2
+[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 2
 [params]
 address = ""
 author = "Leo M. Davis"
