@@ -32,8 +32,8 @@ logo = "/images/justsoantsy-2021-logo-white.png"
 phone = ""
 theme_color = "#8F00B3"
 [params.contact]
-enable = true
-form_action = "send:info@justsoantsy.com"
+enable = false
+form_action = ""
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
