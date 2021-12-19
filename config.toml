@@ -5,17 +5,13 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "justsoantsy.eth | Drag, NFT music, and art. "
 [[menu.main]]
-URL = "https://justsoantsy.com/blog"
-name = "blog"
-weight = ""
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+URL = "https://justsoantsy.com/blog"
+name = "blog"
+weight = ""
 [params]
 address = ""
 author = "Leo M. Davis"
