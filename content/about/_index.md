@@ -23,7 +23,7 @@ Mi misión es, sin disculpas, ser un mejor animador, artista queer Latine y crea
 
 Apunto a un mundo donde nuestros latinos (e / x / o) LGBTQ + y sus aliados confíen en que pueden ser quienes sean, estén seguros y equipados con las habilidades y el conocimiento que necesitan para confiar en sus instintos creativos, ser líderes y tomar riesgos. y sé parte del cambio social. 
 
-MIS VALORES
+### MIS VALORES
 
 **Vive** con profundidad y autenticidad, con confianza.
 
